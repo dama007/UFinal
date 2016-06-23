@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_60" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaClientes" id="ListaClientes0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Cliente"/>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente"/>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>De Gamma</string>
+     </void>
+     <void property="ciudad">
+      <string>Lisboa</string>
+     </void>
+     <void property="codigo">
+      <int>147896</int>
+     </void>
+     <void property="formaPago">
+      <string>Efectivo</string>
+     </void>
+     <void property="nombre">
+      <string>Vasco</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>De La Fontaine</string>
+     </void>
+     <void property="ciudad">
+      <string>Marsella</string>
+     </void>
+     <void property="codigo">
+      <int>125463</int>
+     </void>
+     <void property="formaPago">
+      <string>Aplazado</string>
+     </void>
+     <void property="nombre">
+      <string>Boileau</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Dubois</string>
+     </void>
+     <void property="ciudad">
+      <string>Alabama</string>
+     </void>
+     <void property="codigo">
+      <int>587964</int>
+     </void>
+     <void property="formaPago">
+      <string>Aplazado</string>
+     </void>
+     <void property="nombre">
+      <string>William</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>X</string>
+     </void>
+     <void property="ciudad">
+      <string>New Jersey</string>
+     </void>
+     <void property="codigo">
+      <int>587896</int>
+     </void>
+     <void property="formaPago">
+      <string>Contrareembolso</string>
+     </void>
+     <void property="nombre">
+      <string>Malcom</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Cliente">
+     <void property="apellidos">
+      <string>Hugo</string>
+     </void>
+     <void property="ciudad">
+      <string>Lille</string>
+     </void>
+     <void property="codigo">
+      <int>587934</int>
+     </void>
+     <void property="formaPago">
+      <string>Efectivo</string>
+     </void>
+     <void property="nombre">
+      <string>Victor</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

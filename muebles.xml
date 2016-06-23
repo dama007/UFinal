@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_60" class="java.beans.XMLDecoder">
+ <object class="modelo.ListaMuebles" id="ListaMuebles0">
+  <void property="lista">
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Sofa Cama</string>
+     </void>
+     <void property="idMueble">
+      <int>2546</int>
+     </void>
+     <void property="precio">
+      <double>789.0</double>
+     </void>
+     <void property="stock">
+      <int>125</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Hamaca Hawai</string>
+     </void>
+     <void property="idMueble">
+      <int>8795</int>
+     </void>
+     <void property="precio">
+      <double>239.54</double>
+     </void>
+     <void property="stock">
+      <int>125</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Puff blanco piel</string>
+     </void>
+     <void property="idMueble">
+      <int>5897</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Mesa centro</string>
+     </void>
+     <void property="idMueble">
+      <int>2548</int>
+     </void>
+     <void property="precio">
+      <double>129.0</double>
+     </void>
+     <void property="stock">
+      <int>879</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Mueble tele Wengue</string>
+     </void>
+     <void property="idMueble">
+      <int>8974</int>
+     </void>
+     <void property="precio">
+      <double>249.0</double>
+     </void>
+     <void property="stock">
+      <int>154</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="modelo.Mueble">
+     <void property="descripcion">
+      <string>Mueble comedor completo cerezo</string>
+     </void>
+     <void property="idMueble">
+      <int>7895</int>
+     </void>
+     <void property="stock">
+      <int>56</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
